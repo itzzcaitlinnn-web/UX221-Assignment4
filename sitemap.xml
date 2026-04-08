@@ -42,6 +42,11 @@
     </url>
     <url>
         <loc>
+            http://localhost:8000/about/
+        </loc>
+    </url>
+    <url>
+        <loc>
             http://localhost:8000/products/the-lego-batman-movie-the-scuttler-costruzioni-2/
         </loc>
     </url>
